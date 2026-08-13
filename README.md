@@ -1,5 +1,5 @@
 # arrows Alpha (Fuji) kernel manifest
-- Release tag: MMI-W1VH36H.80-34-2-2-1
+- Release tag: MMI-W1VHS36H.80-34-2-2-1-5
 - Android 16
 
 ## 1. Create folder & sync repo
