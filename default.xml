@@ -67,4 +67,9 @@
     <linkfile src="BUILD.bazel" dest="BUILD" />
     <linkfile src="kleaf/bazel.WORKSPACE" dest="WORKSPACE" />
   </project>
+
+  <!-- Build script -->
+  <project path="manifest" name="kernel_fcnt_fuji_manifest" remote="arrows-development" revision="16.2">
+    <linkfile src="build_fuji.sh" dest="build_fuji.sh" />
+  </project>
 </manifest>
